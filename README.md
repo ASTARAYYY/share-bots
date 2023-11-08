@@ -4,13 +4,13 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/FLAME_MAINCHATS"
+  <a href="https://t.me/Z_MAINCHATS"
     <img src="http://telegra.ph/file/195a8441009be1eca7470.jpg" width="250">
   </a><br>
-  <a href="https://t.me/FLAME_MAINCHATS">
+  <a href="https://t.me/Z_MAINCHATS">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/FLAME_MAINCHATS">
+  <a href="https://t.me/Z_MAINCHATS">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
